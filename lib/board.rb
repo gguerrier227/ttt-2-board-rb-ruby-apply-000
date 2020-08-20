@@ -1,3 +1,3 @@
 # Define the variable board below.
-board = ["","",""]
-
+brd = board
+board = [" "," "," "]
